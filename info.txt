@@ -1,0 +1,5 @@
+Este código cria um cliente WhatsApp e define três eventos:
+
+- ready: quando o cliente está pronto para enviar e receber mensagens
+- message: quando uma mensagem é recebida
+- error: quando ocorre um erro
